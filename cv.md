@@ -1,7 +1,7 @@
 # rsschool-cv
-====
+===
 # Vladmir Kostenich
-=====
+===
 ## Contact information:
 
 * **Phone:** +375447802968
